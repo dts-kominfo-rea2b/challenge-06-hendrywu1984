@@ -1,7 +1,7 @@
 {
   "name": "challenge-callback-advanced",
   "version": "1.0.0",
-  "description": "",
+  "description": "Diberikan tiga buah file json untuk dibaca:\r - `data1.json`\r - `data2.json`\r - `data3.json`",
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose --detectOpenHandles --forceExit --runInBand"
